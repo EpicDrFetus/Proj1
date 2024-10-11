@@ -43,3 +43,5 @@ export const updateSearchParams = (type: string, value: string) => {
 
     return newPathname;
 }
+
+
